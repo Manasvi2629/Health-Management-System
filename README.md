@@ -5,7 +5,7 @@ A Python Tkinter + SQLite based Health Management System to manage patients’ c
 A GUI based health management system that can be used in medical sector to store complete medical records of patients.
 
 
-Features:
+**Features:**
 
 1. Add new patient records with symptoms and details
    
@@ -19,7 +19,8 @@ Features:
     
 6. Lightweight database using SQLite
 
-Technologies used:
+
+**Technologies used:**
 
 1. Python 3.12
 
